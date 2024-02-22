@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Collectible1
+  - Collectible2
+  - Collectible
+  - Collectible3
+  - Collectible4
+  - Logic
+  - Exit
+  - Col0Obj
+  - Col1Obj
+  - Col2Obj
+  - Col3Obj
+  - Col4Obj
+  - Col5Obj
+  - Line
+  - Canvas
+  - InvisibleCollider
+  - ShowObject
+  - RandomNumber
+  - Spawning
+  - Wall
+  - StartValue
+  - Chest
+  - ChildObject
+  - ParentObject
+  - FinalObject
+  - MovableObject
+  - NumberToFind1
+  - NumberToFind2
+  - ValueToCheck
+  - ValueToCheck2
+  - Music
+  - Transition
+  - AnimatedObject
+  - Monster
+  - QuitStayPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3188733267
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1698891039
+    locked: 0
+  - name: Player
+    uniqueID: 4091450035
+    locked: 0
